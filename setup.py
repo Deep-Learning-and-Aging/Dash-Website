@@ -25,7 +25,7 @@ setup(
         "itsdangerous==2.0.1",
         "Jinja2==3.0.1",
         "jmespath==0.10.0",
-        "joblib==1.0.1",
+        "joblib==1.2.0",
         "kiwisolver==1.3.1",
         "MarkupSafe==2.0.1",
         "matplotlib==3.4.2",

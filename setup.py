@@ -31,7 +31,7 @@ setup(
         "matplotlib==3.4.2",
         "numpy==1.21.1",
         "pandas==1.3.1",
-        "Pillow==8.3.1",
+        "Pillow==9.3.0",
         "pip==21.1.3",
         "plotly==5.1.0",
         "pyarrow==5.0.0",
